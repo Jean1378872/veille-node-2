@@ -8,6 +8,10 @@ body, html {
   background-color: #7f7f7f;
   margin: auto 15%;
 }
+a, a:visited, a:active, a:link {
+  color: inherit;
+  text-decoration: none;
+}
 section {
   display: flex; /* or inline-flex */
 }
@@ -24,6 +28,10 @@ h1.logo {
 
 h1.logo:hover {
   color: #fce57e;
+}
+nav a {
+  display: inline-block;
+  padding: 20px;
 }
 .navigationSite{
   background-color: beige; 
