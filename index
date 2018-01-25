@@ -16,14 +16,14 @@
 			<a href="">Recherche</a>
 		</li>
 	</nav>
-	<section>
+	<section class="sectionUn">
 		<p></p>
 		<p></p>
 		<p></p>
 		<p></p>
 		<p></p>
 	</section>
-	<section>
+	<section class="sectionDeux">
 		<p></p>
 		<p></p>
 		<p></p>
