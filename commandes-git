@@ -1,0 +1,9 @@
+git remote add origin https://github.com/Jean1378872/veille-node.git
+git push -u origin master
+
+echo "# veille-node" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Jean1378872/veille-node.git
+git push -u origin master
