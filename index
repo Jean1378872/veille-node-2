@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Projet Veille Node.js</title>
+</head>
+<body>
+	<header>Apprendre Git</header>
+	<nav>
+		<li>
+			<a href="">Page Accueil</a>
+			<a href="">Projet</a>
+			<a href="">Recherche</a>
+		</li>
+	</nav>
+	<section>
+		<p></p>
+	</section>
+
+</body>
+</html>
