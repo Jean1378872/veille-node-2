@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="UTF-8">
 	<title>Projet Veille Node.js</title>
+
 </head>
 <body>
 	<header>Apprendre Git</header>
@@ -13,6 +15,17 @@
 		</li>
 	</nav>
 	<section>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
+	</section>
+	<section>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
 		<p></p>
 	</section>
 	<footer>Pied de page</footer>
