@@ -11,3 +11,24 @@ body, html {
 section {
   display: flex; /* or inline-flex */
 }
+/*
+  ENTETE ET MENU DE NAVIGATION
+*/
+.navigationSite{
+  background-color: beige; 
+}
+/*
+  CONTENU PRINCIPAL
+*/
+.sectionUn{
+  background-color: #fff;
+  width: 50%;
+  min-width: 700px;
+  margin: auto 25%;
+}
+.sectionDeux{
+  background-color: #fff;
+  width: 50%;
+  min-width: 700px;
+  margin: auto 25%;
+}
