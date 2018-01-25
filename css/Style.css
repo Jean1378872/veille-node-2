@@ -1,3 +1,35 @@
+/*
+  STRUCTURE ET STYLES COMMUNS
+*/
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #7f7f7f;
+}
 section {
   display: flex; /* or inline-flex */
 }
+/*
+  ENTETE ET MENU DE NAVIGATION
+*/
+.navigationSite{
+  background-color: beige; 
+}
+/*
+  CONTENU PRINCIPAL
+*/
+
+/*
+  MENU/LISTE DES VINS
+*/
+
+/*
+  PIED DE PAGE
+*/
+
+/*
+  STYLES ADAPTIFS (RESPONSIVE)
+  Pour les besoins de ce travail pratique, nous ne ciblons que les écrans de 
+  résolution supérieure à 750px.
+*/

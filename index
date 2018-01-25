@@ -9,7 +9,7 @@
 </head>
 <body>
 	<header>Apprendre Git</header>
-	<nav>
+	<nav class="navigationSite">
 		<li>
 			<a href="">Page Accueil</a>
 			<a href="">Projet</a>
