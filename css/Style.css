@@ -14,6 +14,17 @@ section {
 /*
   ENTETE ET MENU DE NAVIGATION
 */
+h1.logo {
+  display: inline-block;
+  margin: 5px auto;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.7em;
+  text-align: center;
+}
+
+h1.logo:hover {
+  color: #fce57e;
+}
 .navigationSite{
   background-color: beige; 
 }

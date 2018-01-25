@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<header>Apprendre Git</header>
+	<header><h1>Apprendre Git</h1></header>
 	<nav class="navigationSite"><li>
 			<a href="">Page Accueil</a>
 			<a href="">Projet</a>
