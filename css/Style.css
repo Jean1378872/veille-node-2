@@ -26,9 +26,12 @@ section {
 /*
   ENTETE ET MENU DE NAVIGATION
 */
+h1{
+  margin-left: 60px;
+}
 h1.logo {
   display: inline-block;
-  margin: 5px auto;
+  margin: 5px 10px;
   font-family: 'Roboto Slab', serif;
   font-size: 1.7em;
   text-align: center;
