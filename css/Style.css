@@ -45,6 +45,7 @@ h2{
 p{
   position: absolute;
   margin-top: 200px;
+  height: 100px;
 }
 nav a {
   display: inline-block;
