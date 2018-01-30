@@ -14,8 +14,9 @@
 			<a href="">Recherche</a>
 		</li></nav>
 		<section class="sectionUn"><h2>Test 1</h2>
-		<p></p>
-		<p></p>
+		<p>supprimer une branche</p>
+		<p>$ git branch -d hotfix <br></br>
+Deleted branch hotfix (3a0874c).</p>
 		<p></p>
 		<p></p>
 		<p></p>
