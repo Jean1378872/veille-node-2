@@ -6,7 +6,7 @@ body, html {
   padding: 0;
   width: 100%;
   color: white;
-  background-color: darkgrey;
+  background-color: #330000;
   margin: auto;
   text-align:center;
 }
@@ -21,7 +21,7 @@ section {
   margin-top: 50px;
   position: relative;
   margin-left: 500px;
-  background-color: lightblue; 
+  background-color: #ffcccc; 
 }
 /*
   ENTETE ET MENU DE NAVIGATION
@@ -55,7 +55,7 @@ nav a {
   padding: 25px;
 }
 .navigationSite{
-  background-color: lightblue; 
+  background-color: #ffcccc; 
 }
 /*
   CONTENU PRINCIPAL
