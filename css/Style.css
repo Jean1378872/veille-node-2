@@ -37,6 +37,15 @@ h1.logo {
 h1.logo:hover {
   color: #fce57e;
 }
+h2{
+  margin: 0 50%;
+  display: block;
+  text-align: center;
+}
+p{
+  position: absolute;
+  margin-top: 200px;
+}
 nav a {
   display: inline-block;
   padding: 25px;
