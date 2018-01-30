@@ -7,13 +7,13 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<header><h1>Apprendre Git-2</h1></header>
+	<header><h1>Projet</h1></header>
 	<nav class="navigationSite"><li>
 			<a href="">Page Accueil</a>
 			<a href="">Projet</a>
 			<a href="">Recherche</a>
 		</li></nav>
-		<section class="sectionUn"><h2>Branche 1</h2>
+		<section class="sectionUn"><h2>Test 1</h2>
 		<p></p>
 		<p></p>
 		<p></p>
@@ -21,13 +21,13 @@
 		<p></p>
 			
 		</section>
-		<section class="sectionDeux"><h2>Branche 2</h2>
+		<section class="sectionDeux"><h2>Test 2</h2>
 		<p></p>
 		<p></p>
 		<p></p>
 		<p></p>
 		<p></p>
 	</section>
-		<footer>Pied de page</footer>
+		<footer>Pied de page - page 1</footer>
 </body>
 </html>
