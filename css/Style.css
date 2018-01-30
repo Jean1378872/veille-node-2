@@ -21,6 +21,7 @@ section {
   position: relative;
   margin-left: 500px;
   background-color: lightgreen; 
+  border-radius: 30px;
 }
 /*
   ENTETE ET MENU DE NAVIGATION
@@ -47,13 +48,13 @@ nav a {
   CONTENU PRINCIPAL
 */
 .sectionUn{
-  background-color: #fff;
+  background-color: #deffda;
   width: 50%;
   min-width: 700px;
 
 }
 .sectionDeux{
-  background-color: #fff;
+  background-color: #deffda;
   width: 50%;
   min-width: 700px;
 
