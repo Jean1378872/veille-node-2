@@ -20,6 +20,7 @@ section {
   margin-top: 50px;
   position: relative;
   margin-left: 500px;
+  background-color: #adfe12: 
 }
 /*
   ENTETE ET MENU DE NAVIGATION
@@ -40,19 +41,17 @@ nav a {
   padding: 25px;
 }
 .navigationSite{
-  background-color: beige; 
+  background-color: lightblue; 
 }
 /*
   CONTENU PRINCIPAL
 */
 .sectionUn{
-  background-color: #fff;
   width: 50%;
   min-width: 700px;
 
 }
 .sectionDeux{
-  background-color: #fff;
   width: 50%;
   min-width: 700px;
 
