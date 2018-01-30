@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+<title>Projet Veille Node.js</title>
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<header><h1>Apprendre Git-2</h1></header>
+	<nav class="navigationSite"><li>
+			<a href="">Page Accueil</a>
+			<a href="">Projet</a>
+			<a href="">Recherche</a>
+		</li></nav>
+		<section class="sectionUn"><h2>Branche 1</h2>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
+			
+		</section>
+		<section class="sectionDeux"><h2>Branche 2</h2>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
+	</section>
+		<footer>Pied de page</footer>
+</body>
+</html>
