@@ -5,7 +5,8 @@ body, html {
   margin: 0;
   padding: 0;
   width: 100%;
-  background-color: #7f7f7f;
+  color: white;
+  background-color: darkgrey;
   margin: auto;
   text-align:center;
 }
@@ -20,7 +21,7 @@ section {
   margin-top: 50px;
   position: relative;
   margin-left: 500px;
-  background-color: #adfe12: 
+  background-color: lightblue; 
 }
 /*
   ENTETE ET MENU DE NAVIGATION
