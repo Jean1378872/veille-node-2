@@ -5,7 +5,7 @@ body, html {
   margin: 0;
   padding: 0;
   width: 100%;
-  background-color: #7f7f7f;
+  background-color: white;
   margin: auto;
   text-align:center;
 }
@@ -42,7 +42,8 @@ nav a {
   padding: 25px;
 }
 .navigationSite{
-  background-color: beige; 
+  background-color: darkgreen;
+  color: white; 
 }
 /*
   CONTENU PRINCIPAL
